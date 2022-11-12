@@ -50,7 +50,7 @@ export default function Home() {
 
         {/* Search */}
 
-        <div className="relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 text-white z-10">
+        <div className="px-2 md:px-0 relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 text-white z-10">
           <form
             onSubmit={fetchWeather}
             className="flex justify-between items-center w-full m-auto p-3 bg-transparent border border-gray-300 text-white rounded-2xl"
@@ -70,10 +70,10 @@ export default function Home() {
         </div>
         <div className="relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 text-white z-10">
           <Link href="/Datenschutz">
-            <p className="px-4 underline cursor-pointer">Datenschutz</p>
+            <p className="p-2 underline cursor-pointer">Datenschutz</p>
           </Link>
           <Link href="/Impressum">
-            <p className="underline cursor-pointer">Impressum</p>
+            <p className="p-2 underline cursor-pointer">Impressum</p>
           </Link>
         </div>
 

@@ -20,21 +20,24 @@ const Weather = ({ data }) => {
       <div className="bg-black/50 relative p-8 rounded-md mb-[200px]">
         <p className="text-3xl text-center pb-6">Weather in {data.name}</p>
         <div className="flex justify-between text-center">
-            <div>
-                <p className="font-bold text-2xl">{data.main.feels_like.toFixed(0)}&#176;</p>
-                <p className="text-xl">Feels Like</p>
-            </div>
-            <div>
-                <p className="font-bold text-2xl">{data.main.humidity}%</p>
-                <p className="text-xl">Humidity</p>
-            </div>
-            <div>
-                <p className="font-bold text-2xl">{data.wind.speed.toFixed(0)} Km/h</p>
-                <p className="text-xl">Winds</p>
-            </div>
+          <div>
+            <p className="font-bold text-2xl">
+              {data.main.feels_like.toFixed(0)}&#176;
+            </p>
+            <p className="text-xl">Feels Like</p>
+          </div>
+          <div>
+            <p className="font-bold text-2xl">{data.main.humidity}%</p>
+            <p className="text-xl">Humidity</p>
+          </div>
+          <div>
+            <p className="font-bold text-2xl">
+              {data.wind.speed.toFixed(0)} Km/h
+            </p>
+            <p className="text-xl">Winds</p>
+          </div>
         </div>
       </div>
-
     </div>
   );
 };
