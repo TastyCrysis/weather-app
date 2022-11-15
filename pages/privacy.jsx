@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 
@@ -333,7 +334,7 @@ const privacy = () => {
         </a>
       </p>
       <h2 id="kommunikation">Kommunikation</h2>
-      <table border="1" cellpadding="15">
+      <table>
         <tbody>
           <tr>
             <td>
@@ -425,7 +426,7 @@ const privacy = () => {
         </li>
       </ul>
       <h2 id="cookies">Cookies</h2>
-      <table border="1" cellpadding="15">
+      <table>
         <tbody>
           <tr>
             <td>
@@ -493,7 +494,7 @@ const privacy = () => {
         angefordert wird.
       </p>
       <p>
-        <img
+        <Image
           role="img"
           src="https://www.adsimple.at/wp-content/uploads/2018/03/http-cookie-interaction.svg"
           alt="HTTP Cookie Interaktion zwischen Browser und Webserver"
@@ -697,7 +698,7 @@ const privacy = () => {
         Cookies informiert, sofern eingesetzte Software Cookies verwendet.
       </p>
       <h2 id="webhosting-einleitung">Webhosting Einleitung</h2>
-      <table border="1" cellpadding="15">
+      <table>
         <tbody>
           <tr>
             <td>
@@ -764,7 +765,7 @@ const privacy = () => {
         dem Hosting-Provider.
       </p>
       <p>
-        <img
+        <image
           role="img"
           src="https://www.adsimple.at/wp-content/uploads/2018/03/browser-und-webserver.svg"
           alt="Browser und Webserver"
