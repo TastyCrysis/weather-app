@@ -26,7 +26,7 @@ const imprint = () => {
         Quelle: <a href="https://www.e-recht24.de">eRecht24</a>
       </p>
 
-      <Link href="/#index">
+      <Link href="/">
         <p className="underline cursor-pointer">Back</p>
       </Link>
     </div>
