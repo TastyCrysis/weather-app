@@ -25,28 +25,25 @@ const privacy = () => {
         Möglichkeiten Sie haben. Die verwendeten Begriffe sind
         geschlechtsneutral zu verstehen.
         <br />
-        <strong class="adsimple-312328346">Kurz gesagt:</strong> Wir informieren
-        Sie umfassend über Daten, die wir über Sie verarbeiten.
+        <strong>Kurz gesagt:</strong> Wir informieren Sie umfassend über Daten,
+        die wir über Sie verarbeiten.
       </p>
       <p className="p-2">
         Datenschutzerklärungen klingen für gewöhnlich sehr technisch und
         verwenden juristische Fachbegriffe. Diese Datenschutzerklärung soll
         Ihnen hingegen die wichtigsten Dinge so einfach und transparent wie
         möglich beschreiben. Soweit es der Transparenz förderlich ist, werden
-        technische{" "}
-        <strong class="adsimple-312328346">
-          Begriffe leserfreundlich erklärt
-        </strong>
-        , Links zu weiterführenden Informationen geboten und{" "}
-        <strong class="adsimple-312328346">Grafiken</strong> zum Einsatz
-        gebracht. Wir informieren damit in klarer und einfacher Sprache, dass
-        wir im Rahmen unserer Geschäftstätigkeiten nur dann personenbezogene
-        Daten verarbeiten, wenn eine entsprechende gesetzliche Grundlage gegeben
-        ist. Das ist sicher nicht möglich, wenn man möglichst knappe, unklare
-        und juristisch-technische Erklärungen abgibt, so wie sie im Internet oft
-        Standard sind, wenn es um Datenschutz geht. Ich hoffe, Sie finden die
-        folgenden Erläuterungen interessant und informativ und vielleicht ist
-        die eine oder andere Information dabei, die Sie noch nicht kannten.
+        technische <strong>Begriffe leserfreundlich erklärt</strong>, Links zu
+        weiterführenden Informationen geboten und <strong>Grafiken</strong> zum
+        Einsatz gebracht. Wir informieren damit in klarer und einfacher Sprache,
+        dass wir im Rahmen unserer Geschäftstätigkeiten nur dann
+        personenbezogene Daten verarbeiten, wenn eine entsprechende gesetzliche
+        Grundlage gegeben ist. Das ist sicher nicht möglich, wenn man möglichst
+        knappe, unklare und juristisch-technische Erklärungen abgibt, so wie sie
+        im Internet oft Standard sind, wenn es um Datenschutz geht. Ich hoffe,
+        Sie finden die folgenden Erläuterungen interessant und informativ und
+        vielleicht ist die eine oder andere Information dabei, die Sie noch
+        nicht kannten.
         <br />
         Wenn trotzdem Fragen bleiben, möchten wir Sie bitten, sich an die unten
         bzw. im Impressum genannte verantwortliche Stelle zu wenden, den
@@ -69,23 +66,16 @@ const privacy = () => {
         dieser Datenschutzerklärung umfasst:
       </p>
       <ul className="p-2">
-        <li class="adsimple-312328346">
-          Alle Onlineauftritte (Websites, Onlineshops), die wir betreiben
-        </li>
-        <li class="adsimple-312328346">
-          Social Media Auftritte und E-Mail-Kommunikation
-        </li>
-        <li class="adsimple-312328346">
-          mobile Apps für Smartphones und andere Geräte
-        </li>
+        <li>Alle Onlineauftritte (Websites, Onlineshops), die wir betreiben</li>
+        <li>Social Media Auftritte und E-Mail-Kommunikation</li>
+        <li>mobile Apps für Smartphones und andere Geräte</li>
       </ul>
       <p className="p-2">
-        <strong class="adsimple-312328346">Kurz gesagt:</strong> Die
-        Datenschutzerklärung gilt für alle Bereiche, in denen personenbezogene
-        Daten im Unternehmen über die genannten Kanäle strukturiert verarbeitet
-        werden. Sollten wir außerhalb dieser Kanäle mit Ihnen in
-        Rechtsbeziehungen eintreten, werden wir Sie gegebenenfalls gesondert
-        informieren.
+        <strong>Kurz gesagt:</strong> Die Datenschutzerklärung gilt für alle
+        Bereiche, in denen personenbezogene Daten im Unternehmen über die
+        genannten Kanäle strukturiert verarbeitet werden. Sollten wir außerhalb
+        dieser Kanäle mit Ihnen in Rechtsbeziehungen eintreten, werden wir Sie
+        gegebenenfalls gesondert informieren.
       </p>
       <h2 id="rechtsgrundlagen" className="text-xl pt-4 px-2">
         Rechtsgrundlagen
@@ -114,33 +104,32 @@ const privacy = () => {
       </p>
       <ol>
         <li className="p-2">
-          <strong class="adsimple-312328346">Einwilligung</strong> (Artikel 6
-          Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben, Daten
-          zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die
-          Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.
+          <strong>Einwilligung</strong> (Artikel 6 Absatz 1 lit. a DSGVO): Sie
+          haben uns Ihre Einwilligung gegeben, Daten zu einem bestimmten Zweck
+          zu verarbeiten. Ein Beispiel wäre die Speicherung Ihrer eingegebenen
+          Daten eines Kontaktformulars.
         </li>
         <li className="p-2">
-          <strong class="adsimple-312328346">Vertrag</strong> (Artikel 6 Absatz
-          1 lit. b DSGVO): Um einen Vertrag oder vorvertragliche Verpflichtungen
-          mit Ihnen zu erfüllen, verarbeiten wir Ihre Daten. Wenn wir zum
-          Beispiel einen Kaufvertrag mit Ihnen abschließen, benötigen wir vorab
-          personenbezogene Informationen.
+          <strong>Vertrag</strong> (Artikel 6 Absatz 1 lit. b DSGVO): Um einen
+          Vertrag oder vorvertragliche Verpflichtungen mit Ihnen zu erfüllen,
+          verarbeiten wir Ihre Daten. Wenn wir zum Beispiel einen Kaufvertrag
+          mit Ihnen abschließen, benötigen wir vorab personenbezogene
+          Informationen.
         </li>
         <li className="p-2">
-          <strong class="adsimple-312328346">Rechtliche Verpflichtung</strong>{" "}
-          (Artikel 6 Absatz 1 lit. c DSGVO): Wenn wir einer rechtlichen
-          Verpflichtung unterliegen, verarbeiten wir Ihre Daten. Zum Beispiel
-          sind wir gesetzlich verpflichtet Rechnungen für die Buchhaltung
-          aufzuheben. Diese enthalten in der Regel personenbezogene Daten.
+          <strong>Rechtliche Verpflichtung</strong> (Artikel 6 Absatz 1 lit. c
+          DSGVO): Wenn wir einer rechtlichen Verpflichtung unterliegen,
+          verarbeiten wir Ihre Daten. Zum Beispiel sind wir gesetzlich
+          verpflichtet Rechnungen für die Buchhaltung aufzuheben. Diese
+          enthalten in der Regel personenbezogene Daten.
         </li>
         <li className="p-2">
-          <strong class="adsimple-312328346">Berechtigte Interessen</strong>{" "}
-          (Artikel 6 Absatz 1 lit. f DSGVO): Im Falle berechtigter Interessen,
-          die Ihre Grundrechte nicht einschränken, behalten wir uns die
-          Verarbeitung personenbezogener Daten vor. Wir müssen zum Beispiel
-          gewisse Daten verarbeiten, um unsere Website sicher und wirtschaftlich
-          effizient betreiben zu können. Diese Verarbeitung ist somit ein
-          berechtigtes Interesse.
+          <strong>Berechtigte Interessen</strong> (Artikel 6 Absatz 1 lit. f
+          DSGVO): Im Falle berechtigter Interessen, die Ihre Grundrechte nicht
+          einschränken, behalten wir uns die Verarbeitung personenbezogener
+          Daten vor. Wir müssen zum Beispiel gewisse Daten verarbeiten, um
+          unsere Website sicher und wirtschaftlich effizient betreiben zu
+          können. Diese Verarbeitung ist somit ein berechtigtes Interesse.
         </li>
       </ol>
       <p className="p-2">
@@ -154,17 +143,14 @@ const privacy = () => {
         Zusätzlich zu der EU-Verordnung gelten auch noch nationale Gesetze:
       </p>
       <ul className="p-2">
-        <li class="adsimple-312328346">
-          In <strong class="adsimple-312328346">Österreich</strong> ist dies das
-          Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung
-          personenbezogener Daten (
-          <strong class="adsimple-312328346">Datenschutzgesetz</strong>), kurz{" "}
-          <strong class="adsimple-312328346">DSG</strong>.
+        <li>
+          In <strong>Österreich</strong> ist dies das Bundesgesetz zum Schutz
+          natürlicher Personen bei der Verarbeitung personenbezogener Daten (
+          <strong>Datenschutzgesetz</strong>), kurz <strong>DSG</strong>.
         </li>
-        <li class="adsimple-312328346">
-          In <strong class="adsimple-312328346">Deutschland</strong> gilt das{" "}
-          <strong class="adsimple-312328346">Bundesdatenschutzgesetz</strong>,
-          kurz<strong class="adsimple-312328346"> BDSG</strong>.
+        <li>
+          In <strong>Deutschland</strong> gilt das{" "}
+          <strong>Bundesdatenschutzgesetz</strong>, kurz<strong> BDSG</strong>.
         </li>
       </ul>
       <p className="p-2">
@@ -179,7 +165,7 @@ const privacy = () => {
         personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten
         der verantwortlichen Person bzw. Stelle:
         <br />
-        <span class="adsimple-312328346">
+        <span>
           Philipp Gampe
           <br />
           Am Bergfeld 13, 86495 Eurasburg, Deutschland
@@ -194,9 +180,7 @@ const privacy = () => {
           https://pgweather.netlify.app/imprint/
         </a>
       </p>
-      <h2 id="speicherdauer" class="adsimple-312328346">
-        Speicherdauer
-      </h2>
+      <h2 id="speicherdauer">Speicherdauer</h2>
       <p>
         Dass wir personenbezogene Daten nur so lange speichern, wie es für die
         Bereitstellung unserer Dienstleistungen und Produkte unbedingt notwendig
@@ -216,79 +200,73 @@ const privacy = () => {
         Über die konkrete Dauer der jeweiligen Datenverarbeitung informieren wir
         Sie weiter unten, sofern wir weitere Informationen dazu haben.
       </p>
-      <h2 id="rechte-dsgvo" class="adsimple-312328346">
-        Rechte laut Datenschutz-Grundverordnung
-      </h2>
+      <h2 id="rechte-dsgvo">Rechte laut Datenschutz-Grundverordnung</h2>
       <p>
         Gemäß Artikel 13, 14 DSGVO informieren wir Sie über die folgenden
         Rechte, die Ihnen zustehen, damit es zu einer fairen und transparenten
         Verarbeitung von Daten kommt:
       </p>
-      <ul class="adsimple-312328346">
-        <li class="adsimple-312328346">
+      <ul>
+        <li>
           Sie haben laut Artikel 15 DSGVO ein Auskunftsrecht darüber, ob wir
           Daten von Ihnen verarbeiten. Sollte das zutreffen, haben Sie Recht
           darauf eine Kopie der Daten zu erhalten und die folgenden
           Informationen zu erfahren:
-          <ul class="adsimple-312328346">
-            <li class="adsimple-312328346">
-              zu welchem Zweck wir die Verarbeitung durchführen;
-            </li>
-            <li class="adsimple-312328346">
+          <ul>
+            <li>zu welchem Zweck wir die Verarbeitung durchführen;</li>
+            <li>
               die Kategorien, also die Arten von Daten, die verarbeitet werden;
             </li>
-            <li class="adsimple-312328346">
+            <li>
               wer diese Daten erhält und wenn die Daten an Drittländer
               übermittelt werden, wie die Sicherheit garantiert werden kann;
             </li>
-            <li class="adsimple-312328346">
-              wie lange die Daten gespeichert werden;
-            </li>
-            <li class="adsimple-312328346">
+            <li>wie lange die Daten gespeichert werden;</li>
+            <li>
               das Bestehen des Rechts auf Berichtigung, Löschung oder
               Einschränkung der Verarbeitung und dem Widerspruchsrecht gegen die
               Verarbeitung;
             </li>
-            <li class="adsimple-312328346">
+            <li>
               dass Sie sich bei einer Aufsichtsbehörde beschweren können (Links
               zu diesen Behörden finden Sie weiter unten);
             </li>
-            <li class="adsimple-312328346">
+            <li>
               die Herkunft der Daten, wenn wir sie nicht bei Ihnen erhoben
               haben;
             </li>
-            <li class="adsimple-312328346">
+            <li>
               ob Profiling durchgeführt wird, ob also Daten automatisch
               ausgewertet werden, um zu einem persönlichen Profil von Ihnen zu
               gelangen.
             </li>
           </ul>
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 16 DSGVO ein Recht auf Berichtigung der Daten,
           was bedeutet, dass wir Daten richtig stellen müssen, falls Sie Fehler
           finden.
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 17 DSGVO das Recht auf Löschung („Recht auf
           Vergessenwerden“), was konkret bedeutet, dass Sie die Löschung Ihrer
           Daten verlangen dürfen.
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 18 DSGVO das Recht auf Einschränkung der
           Verarbeitung, was bedeutet, dass wir die Daten nur mehr speichern
           dürfen aber nicht weiter verwenden.
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 20 DSGVO das Recht auf Datenübertragbarkeit,
           was bedeutet, dass wir Ihnen auf Anfrage Ihre Daten in einem gängigen
           Format zur Verfügung stellen.
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 21 DSGVO ein Widerspruchsrecht, welches nach
           Durchsetzung eine Änderung der Verarbeitung mit sich bringt.
-          <ul class="adsimple-312328346">
-            <li class="adsimple-312328346">
+          <ul>
+            <li>
               Wenn die Verarbeitung Ihrer Daten auf Artikel 6 Abs. 1 lit. e
               (öffentliches Interesse, Ausübung öffentlicher Gewalt) oder
               Artikel 6 Abs. 1 lit. f (berechtigtes Interesse) basiert, können
@@ -296,24 +274,24 @@ const privacy = () => {
               so rasch wie möglich, ob wir diesem Widerspruch rechtlich
               nachkommen können.
             </li>
-            <li class="adsimple-312328346">
+            <li>
               Werden Daten verwendet, um Direktwerbung zu betreiben, können Sie
               jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir
               dürfen Ihre Daten danach nicht mehr für Direktmarketing verwenden.
             </li>
-            <li class="adsimple-312328346">
+            <li>
               Werden Daten verwendet, um Profiling zu betreiben, können Sie
               jederzeit gegen diese Art der Datenverarbeitung widersprechen. Wir
               dürfen Ihre Daten danach nicht mehr für Profiling verwenden.
             </li>
           </ul>
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 22 DSGVO unter Umständen das Recht, nicht einer
           ausschließlich auf einer automatisierten Verarbeitung (zum Beispiel
           Profiling) beruhenden Entscheidung unterworfen zu werden.
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Sie haben laut Artikel 77 DSGVO das Recht auf Beschwerde. Das heißt,
           Sie können sich jederzeit bei der Datenschutzbehörde beschweren, wenn
           Sie der Meinung sind, dass die Datenverarbeitung von personenbezogenen
@@ -321,9 +299,8 @@ const privacy = () => {
         </li>
       </ul>
       <p>
-        <strong class="adsimple-312328346">Kurz gesagt:</strong> Sie haben
-        Rechte &#8211; zögern Sie nicht, die oben gelistete verantwortliche
-        Stelle bei uns zu kontaktieren!
+        <strong>Kurz gesagt:</strong> Sie haben Rechte &#8211; zögern Sie nicht,
+        die oben gelistete verantwortliche Stelle bei uns zu kontaktieren!
       </p>
       <p>
         Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das
@@ -332,7 +309,6 @@ const privacy = () => {
         Aufsichtsbehörde beschweren. Diese ist für Österreich die
         Datenschutzbehörde, deren Website Sie unter{" "}
         <a
-          class="adsimple-312328346"
           href="https://www.dsb.gv.at/?tid=312328346"
           target="_blank"
           rel="noopener"
@@ -342,7 +318,6 @@ const privacy = () => {
         finden. In Deutschland gibt es für jedes Bundesland einen
         Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die{" "}
         <a
-          class="adsimple-312328346"
           href="https://www.bfdi.bund.de/DE/Home/home_node.html"
           target="_blank"
           rel="noopener"
@@ -353,26 +328,19 @@ const privacy = () => {
         wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde
         zuständig:
       </p>
-      <h2 id="bayern-datenschutzbehoerde" class="adsimple-312328346">
-        Bayern Datenschutzbehörde
-      </h2>
+      <h2 id="bayern-datenschutzbehoerde">Bayern Datenschutzbehörde</h2>
       <p>
-        <strong class="adsimple-312328346">
-          Landesbeauftragter für Datenschutz:
-        </strong>{" "}
-        Prof. Dr. Thomas Petri
+        <strong>Landesbeauftragter für Datenschutz:</strong> Prof. Dr. Thomas
+        Petri
         <br />
-        <strong class="adsimple-312328346">Adresse:</strong> Wagmüllerstr. 18,
-        80538 München
+        <strong>Adresse:</strong> Wagmüllerstr. 18, 80538 München
         <br />
-        <strong class="adsimple-312328346">Telefonnr.:</strong> 089/21 26 72-0
+        <strong>Telefonnr.:</strong> 089/21 26 72-0
         <br />
-        <strong class="adsimple-312328346">E-Mail-Adresse:</strong>{" "}
-        poststelle@datenschutz-bayern.de
+        <strong>E-Mail-Adresse:</strong> poststelle@datenschutz-bayern.de
         <br />
-        <strong class="adsimple-312328346">Website: </strong>
+        <strong>Website: </strong>
         <a
-          class="adsimple-312328346"
           href="https://www.datenschutz-bayern.de/?tid=312328346"
           target="_blank"
           rel="noopener"
@@ -380,16 +348,12 @@ const privacy = () => {
           https://www.datenschutz-bayern.de/
         </a>
       </p>
-      <h2 id="kommunikation" class="adsimple-312328346">
-        Kommunikation
-      </h2>
+      <h2 id="kommunikation">Kommunikation</h2>
       <table border="1" cellpadding="15">
         <tbody>
           <tr>
             <td>
-              <strong class="adsimple-312328346">
-                Kommunikation Zusammenfassung
-              </strong>
+              <strong>Kommunikation Zusammenfassung</strong>
               <br />
               &#x1f465; Betroffene: Alle, die mit uns per Telefon, E-Mail oder
               Online-Formular kommunizieren
@@ -421,12 +385,12 @@ const privacy = () => {
         damit zusammenhängenden Geschäftsvorgangs verarbeitet. Die Daten während
         eben solange gespeichert bzw. solange es das Gesetz vorschreibt.
       </p>
-      <h3 class="adsimple-312328346">Betroffene Personen</h3>
+      <h3>Betroffene Personen</h3>
       <p>
         Von den genannten Vorgängen sind alle betroffen, die über die von uns
         bereit gestellten Kommunikationswege den Kontakt zu uns suchen.
       </p>
-      <h3 class="adsimple-312328346">Telefon</h3>
+      <h3>Telefon</h3>
       <p>
         Wenn Sie uns anrufen, werden die Anrufdaten auf dem jeweiligen Endgerät
         und beim eingesetzten Telekommunikationsanbieter pseudonymisiert
@@ -435,7 +399,7 @@ const privacy = () => {
         werden. Die Daten werden gelöscht, sobald der Geschäftsfall beendet
         wurde und es gesetzliche Vorgaben erlauben.
       </p>
-      <h3 class="adsimple-312328346">E-Mail</h3>
+      <h3>E-Mail</h3>
       <p>
         Wenn Sie mit uns per E-Mail kommunizieren, werden Daten gegebenenfalls
         auf dem jeweiligen Endgerät (Computer, Laptop, Smartphone,&#8230;)
@@ -443,31 +407,31 @@ const privacy = () => {
         E-Mail-Server. Die Daten werden gelöscht, sobald der Geschäftsfall
         beendet wurde und es gesetzliche Vorgaben erlauben.
       </p>
-      <h3 class="adsimple-312328346">Online Formulare</h3>
+      <h3>Online Formulare</h3>
       <p>
         Wenn Sie mit uns mittels Online-Formular kommunizieren, werden Daten auf
         unserem Webserver gespeichert und gegebenenfalls an eine E-Mail-Adresse
         von uns weitergeleitet. Die Daten werden gelöscht, sobald der
         Geschäftsfall beendet wurde und es gesetzliche Vorgaben erlauben.
       </p>
-      <h3 class="adsimple-312328346">Rechtsgrundlagen</h3>
+      <h3>Rechtsgrundlagen</h3>
       <p>
         Die Verarbeitung der Daten basiert auf den folgenden Rechtsgrundlagen:
       </p>
-      <ul class="adsimple-312328346">
-        <li class="adsimple-312328346">
+      <ul>
+        <li>
           Art. 6 Abs. 1 lit. a DSGVO (Einwilligung): Sie geben uns die
           Einwilligung Ihre Daten zu speichern und weiter für den Geschäftsfall
           betreffende Zwecke zu verwenden;
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Art. 6 Abs. 1 lit. b DSGVO (Vertrag): Es besteht die Notwendigkeit für
           die Erfüllung eines Vertrags mit Ihnen oder einem Auftragsverarbeiter
           wie z. B. dem Telefonanbieter oder wir müssen die Daten für
           vorvertragliche Tätigkeiten, wie z. B. die Vorbereitung eines
           Angebots, verarbeiten;
         </li>
-        <li class="adsimple-312328346">
+        <li>
           Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen): Wir wollen
           Kundenanfragen und geschäftliche Kommunikation in einem
           professionellen Rahmen betreiben. Dazu sind gewisse technische
@@ -476,16 +440,12 @@ const privacy = () => {
           zu können.
         </li>
       </ul>
-      <h2 id="cookies" class="adsimple-312328346">
-        Cookies
-      </h2>
+      <h2 id="cookies">Cookies</h2>
       <table border="1" cellpadding="15">
         <tbody>
           <tr>
             <td>
-              <strong class="adsimple-312328346">
-                Cookies Zusammenfassung
-              </strong>
+              <strong>Cookies Zusammenfassung</strong>
               <br />
               &#x1f465; Betroffene: Besucher der Website
               <br />
@@ -506,7 +466,7 @@ const privacy = () => {
           </tr>
         </tbody>
       </table>
-      <h3 class="adsimple-312328346">Was sind Cookies?</h3>
+      <h3>Was sind Cookies?</h3>
       <p>
         Unsere Website verwendet HTTP-Cookies, um nutzerspezifische Daten zu
         speichern.
@@ -569,23 +529,22 @@ const privacy = () => {
       </p>
       <p>So können zum Beispiel Cookie-Daten aussehen:</p>
       <p>
-        <strong class="adsimple-312328346">Name:</strong> _ga
+        <strong>Name:</strong> _ga
         <br />
-        <strong class="adsimple-312328346">Wert:</strong>
+        <strong>Wert:</strong>
         GA1.2.1326744211.152312328346-9
         <br />
-        <strong class="adsimple-312328346">Verwendungszweck:</strong>{" "}
-        Unterscheidung der Websitebesucher
+        <strong>Verwendungszweck:</strong> Unterscheidung der Websitebesucher
         <br />
-        <strong class="adsimple-312328346">Ablaufdatum:</strong>nach 2 Jahren
+        <strong>Ablaufdatum:</strong>nach 2 Jahren
       </p>
       <p>Diese Mindestgrößen sollte ein Browser unterstützen können:</p>
-      <ul class="adsimple-312328346">
-        <li class="adsimple-312328346">Mindestens 4096 Bytes pro Cookie</li>
-        <li class="adsimple-312328346">Mindestens 50 Cookies pro Domain</li>
-        <li class="adsimple-312328346">Mindestens 3000 Cookies insgesamt</li>
+      <ul>
+        <li>Mindestens 4096 Bytes pro Cookie</li>
+        <li>Mindestens 50 Cookies pro Domain</li>
+        <li>Mindestens 3000 Cookies insgesamt</li>
       </ul>
-      <h3 class="adsimple-312328346">Welche Arten von Cookies gibt es?</h3>
+      <h3>Welche Arten von Cookies gibt es?</h3>
       <p>
         Die Frage welche Cookies wir im Speziellen verwenden, hängt von den
         verwendeten Diensten ab und wird in den folgenden Abschnitten der
@@ -594,7 +553,7 @@ const privacy = () => {
       </p>
       <p>Man kann 4 Arten von Cookies unterscheiden:</p>
       <p>
-        <strong class="adsimple-312328346">
+        <strong>
           Unerlässliche Cookies
           <br />
         </strong>
@@ -605,7 +564,7 @@ const privacy = () => {
         nicht gelöscht, selbst wenn der User sein Browserfenster schließt.
       </p>
       <p>
-        <strong class="adsimple-312328346">
+        <strong>
           Zweckmäßige Cookies
           <br />
         </strong>
@@ -615,7 +574,7 @@ const privacy = () => {
         Browsern gemessen.
       </p>
       <p>
-        <strong class="adsimple-312328346">
+        <strong>
           Zielorientierte Cookies
           <br />
         </strong>
@@ -624,7 +583,7 @@ const privacy = () => {
         Formulardaten gespeichert.
       </p>
       <p>
-        <strong class="adsimple-312328346">
+        <strong>
           Werbe-Cookies
           <br />
         </strong>
@@ -640,22 +599,19 @@ const privacy = () => {
       <p>
         Wenn Sie mehr über Cookies wissen möchten und technische Dokumentationen
         nicht scheuen, empfehlen wir{" "}
-        <a
-          class="adsimple-312328346"
-          href="https://datatracker.ietf.org/doc/html/rfc6265"
-        >
+        <a href="https://datatracker.ietf.org/doc/html/rfc6265">
           https://datatracker.ietf.org/doc/html/rfc6265
         </a>
         ,dem Request for Comments der Internet Engineering Task Force (IETF)
         namens &#8220;HTTP State Management Mechanism&#8221;.
       </p>
-      <h3 class="adsimple-312328346">Zweck der Verarbeitung über Cookies</h3>
+      <h3>Zweck der Verarbeitung über Cookies</h3>
       <p>
         Der Zweck ist letztendlich abhängig vom jeweiligen Cookie. Mehr Details
         dazu finden Sie weiter unten bzw. beim Hersteller der Software, die das
         Cookie setzt.
       </p>
-      <h3 class="adsimple-312328346">Welche Daten werden verarbeitet?</h3>
+      <h3>Welche Daten werden verarbeitet?</h3>
       <p>
         Cookies sind kleine Gehilfen für eine viele verschiedene Aufgaben.
         Welche Daten in Cookies gespeichert werden, kann man leider nicht
@@ -663,7 +619,7 @@ const privacy = () => {
         Datenschutzerklärung über die verarbeiteten bzw. gespeicherten Daten
         informieren.
       </p>
-      <h3 class="adsimple-312328346">Speicherdauer von Cookies</h3>
+      <h3>Speicherdauer von Cookies</h3>
       <p>
         Die Speicherdauer hängt vom jeweiligen Cookie ab und wird weiter unter
         präzisiert. Manche Cookies werden nach weniger als einer Stunde
@@ -678,9 +634,7 @@ const privacy = () => {
         Einwilligung gelöscht, wobei die Rechtmäßigkeit der Speicherung bis
         dahin unberührt bleibt.
       </p>
-      <h3 class="adsimple-312328346">
-        Widerspruchsrecht &#8211; wie kann ich Cookies löschen?
-      </h3>
+      <h3>Widerspruchsrecht &#8211; wie kann ich Cookies löschen?</h3>
       <p>
         Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst.
         Unabhängig von welchem Service oder welcher Website die Cookies stammen,
@@ -695,7 +649,6 @@ const privacy = () => {
       </p>
       <p>
         <a
-          class="adsimple-312328346"
           href="https://support.google.com/chrome/answer/95647?tid=312328346"
           target="_blank"
           rel="noopener noreferrer"
@@ -705,7 +658,6 @@ const privacy = () => {
       </p>
       <p>
         <a
-          class="adsimple-312328346"
           href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=312328346"
           target="_blank"
           rel="noopener noreferrer"
@@ -715,7 +667,6 @@ const privacy = () => {
       </p>
       <p>
         <a
-          class="adsimple-312328346"
           href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=312328346"
           target="_blank"
           rel="noopener noreferrer"
@@ -725,18 +676,12 @@ const privacy = () => {
         </a>
       </p>
       <p>
-        <a
-          class="adsimple-312328346"
-          href="https://support.microsoft.com/de-de/windows/l%C3%B6schen-und-verwalten-von-cookies-168dab11-0753-043d-7c16-ede5947fc64d?tid=312328346"
-        >
+        <a href="https://support.microsoft.com/de-de/windows/l%C3%B6schen-und-verwalten-von-cookies-168dab11-0753-043d-7c16-ede5947fc64d?tid=312328346">
           Internet Explorer: Löschen und Verwalten von Cookies
         </a>
       </p>
       <p>
-        <a
-          class="adsimple-312328346"
-          href="https://support.microsoft.com/de-de/microsoft-edge/cookies-in-microsoft-edge-l%C3%B6schen-63947406-40ac-c3b8-57b9-2a946a29ae09?tid=312328346"
-        >
+        <a href="https://support.microsoft.com/de-de/microsoft-edge/cookies-in-microsoft-edge-l%C3%B6schen-63947406-40ac-c3b8-57b9-2a946a29ae09?tid=312328346">
           Microsoft Edge: Löschen und Verwalten von Cookies
         </a>
       </p>
@@ -749,27 +694,26 @@ const privacy = () => {
         Google mit dem Suchbegriff “Cookies löschen Chrome” oder &#8220;Cookies
         deaktivieren Chrome&#8221; im Falle eines Chrome Browsers.
       </p>
-      <h3 class="adsimple-312328346">Rechtsgrundlage</h3>
+      <h3>Rechtsgrundlage</h3>
       <p>
         Seit 2009 gibt es die sogenannten „Cookie-Richtlinien“. Darin ist
         festgehalten, dass das Speichern von Cookies eine{" "}
-        <strong class="adsimple-312328346">Einwilligung</strong> (Artikel 6 Abs.
-        1 lit. a DSGVO) von Ihnen verlangt. Innerhalb der EU-Länder gibt es
-        allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien.
-        In Österreich erfolgte aber die Umsetzung dieser Richtlinie in § 96 Abs.
-        3 des Telekommunikationsgesetzes (TKG). In Deutschland wurden die
+        <strong>Einwilligung</strong> (Artikel 6 Abs. 1 lit. a DSGVO) von Ihnen
+        verlangt. Innerhalb der EU-Länder gibt es allerdings noch sehr
+        unterschiedliche Reaktionen auf diese Richtlinien. In Österreich
+        erfolgte aber die Umsetzung dieser Richtlinie in § 96 Abs. 3 des
+        Telekommunikationsgesetzes (TKG). In Deutschland wurden die
         Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen
         erfolgte die Umsetzung dieser Richtlinie weitgehend in § 15 Abs.3 des
         Telemediengesetzes (TMG).
       </p>
       <p>
         Für unbedingt notwendige Cookies, auch soweit keine Einwilligung
-        vorliegt, bestehen{" "}
-        <strong class="adsimple-312328346">berechtigte Interessen</strong>{" "}
-        (Artikel 6 Abs. 1 lit. f DSGVO), die in den meisten Fällen
-        wirtschaftlicher Natur sind. Wir möchten den Besuchern der Website eine
-        angenehme Benutzererfahrung bescheren und dafür sind bestimmte Cookies
-        oft unbedingt notwendig.
+        vorliegt, bestehen <strong>berechtigte Interessen</strong> (Artikel 6
+        Abs. 1 lit. f DSGVO), die in den meisten Fällen wirtschaftlicher Natur
+        sind. Wir möchten den Besuchern der Website eine angenehme
+        Benutzererfahrung bescheren und dafür sind bestimmte Cookies oft
+        unbedingt notwendig.
       </p>
       <p>
         Soweit nicht unbedingt erforderliche Cookies zum Einsatz kommen,
@@ -780,16 +724,12 @@ const privacy = () => {
         In den folgenden Abschnitten werden Sie genauer über den Einsatz von
         Cookies informiert, sofern eingesetzte Software Cookies verwendet.
       </p>
-      <h2 id="webhosting-einleitung" class="adsimple-312328346">
-        Webhosting Einleitung
-      </h2>
+      <h2 id="webhosting-einleitung">Webhosting Einleitung</h2>
       <table border="1" cellpadding="15">
         <tbody>
           <tr>
             <td>
-              <strong class="adsimple-312328346">
-                Webhosting Zusammenfassung
-              </strong>
+              <strong>Webhosting Zusammenfassung</strong>
               <br />
               &#x1f465; Betroffene: Besucher der Website
               <br />
@@ -810,7 +750,7 @@ const privacy = () => {
           </tr>
         </tbody>
       </table>
-      <h3 class="adsimple-312328346">Was ist Webhosting?</h3>
+      <h3>Was ist Webhosting?</h3>
       <p>
         Wenn Sie heutzutage Websites besuchen, werden gewisse Informationen
         &#8211; auch personenbezogene Daten &#8211; automatisch erstellt und
@@ -859,42 +799,31 @@ const privacy = () => {
           width="100%"
         />
       </p>
-      <h3 class="adsimple-312328346">
-        Warum verarbeiten wir personenbezogene Daten?
-      </h3>
+      <h3>Warum verarbeiten wir personenbezogene Daten?</h3>
       <p>Die Zwecke der Datenverarbeitung sind:</p>
       <ol>
-        <li class="adsimple-312328346">
+        <li>
           Professionelles Hosting der Website und Absicherung des Betriebs
         </li>
-        <li class="adsimple-312328346">
-          zur Aufrechterhaltung der Betriebs- und IT-Sicherheit
-        </li>
-        <li class="adsimple-312328346">
+        <li>zur Aufrechterhaltung der Betriebs- und IT-Sicherheit</li>
+        <li>
           Anonyme Auswertung des Zugriffsverhaltens zur Verbesserung unseres
           Angebots und ggf. zur Strafverfolgung bzw. Verfolgung von Ansprüchen
         </li>
       </ol>
-      <h3 class="adsimple-312328346">Welche Daten werden verarbeitet?</h3>
+      <h3>Welche Daten werden verarbeitet?</h3>
       <p>
         Auch während Sie unsere Website jetzt gerade besuchen, speichert unser
         Webserver, das ist der Computer auf dem diese Webseite gespeichert ist,
         in der Regel automatisch Daten wie
       </p>
-      <ul class="adsimple-312328346">
-        <li class="adsimple-312328346">
-          die komplette Internetadresse (URL) der aufgerufenen Webseite
-        </li>
-        <li class="adsimple-312328346">
-          Browser und Browserversion (z. B. Chrome 87)
-        </li>
-        <li class="adsimple-312328346">
-          das verwendete Betriebssystem (z. B. Windows 10)
-        </li>
-        <li class="adsimple-312328346">
+      <ul>
+        <li>die komplette Internetadresse (URL) der aufgerufenen Webseite</li>
+        <li>Browser und Browserversion (z. B. Chrome 87)</li>
+        <li>das verwendete Betriebssystem (z. B. Windows 10)</li>
+        <li>
           die Adresse (URL) der zuvor besuchten Seite (Referrer URL) (z. B.{" "}
           <a
-            class="adsimple-312328346"
             href="https://www.beispielquellsite.de/vondabinichgekommen/"
             target="_blank"
             rel="follow noopener"
@@ -903,16 +832,14 @@ const privacy = () => {
           </a>
           )
         </li>
-        <li class="adsimple-312328346">
+        <li>
           den Hostnamen und die IP-Adresse des Geräts von welchem aus
           zugegriffen wird (z. B. COMPUTERNAME und 194.23.43.121)
         </li>
-        <li class="adsimple-312328346">Datum und Uhrzeit</li>
-        <li class="adsimple-312328346">
-          in Dateien, den sogenannten Webserver-Logfiles
-        </li>
+        <li>Datum und Uhrzeit</li>
+        <li>in Dateien, den sogenannten Webserver-Logfiles</li>
       </ul>
-      <h3 class="adsimple-312328346">Wie lange werden Daten gespeichert?</h3>
+      <h3>Wie lange werden Daten gespeichert?</h3>
       <p>
         In der Regel werden die oben genannten Daten zwei Wochen gespeichert und
         danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können
@@ -920,12 +847,12 @@ const privacy = () => {
         rechtswidrigem Verhalten von Behörden eingesehen werden.
       </p>
       <p>
-        <strong class="adsimple-312328346">Kurz gesagt:</strong> Ihr Besuch wird
-        durch unseren Provider (Firma, die unsere Website auf speziellen
-        Computern (Servern) laufen lässt), protokolliert, aber wir geben Ihre
-        Daten nicht ohne Zustimmung weiter!
+        <strong>Kurz gesagt:</strong> Ihr Besuch wird durch unseren Provider
+        (Firma, die unsere Website auf speziellen Computern (Servern) laufen
+        lässt), protokolliert, aber wir geben Ihre Daten nicht ohne Zustimmung
+        weiter!
       </p>
-      <h3 class="adsimple-312328346">Rechtsgrundlage</h3>
+      <h3>Rechtsgrundlage</h3>
       <p>
         Die Rechtmäßigkeit der Verarbeitung personenbezogener Daten im Rahmen
         des Webhosting ergibt sich aus Art. 6 Abs. 1 lit. f DSGVO (Wahrung der
@@ -939,9 +866,7 @@ const privacy = () => {
         über die Auftragsverarbeitung gemäß Art. 28 f. DSGVO, der die Einhaltung
         von Datenschutz gewährleistet und Datensicherheit garantiert.
       </p>
-      <h2 id="netlify-datenschutzerklaerung" class="adsimple-312328346">
-        Netlify Datenschutzerklärung
-      </h2>
+      <h2 id="netlify-datenschutzerklaerung">Netlify Datenschutzerklärung</h2>
       <p>
         Wir verwenden für unsere Website den Webhosting-Anbieter Netlify.
         Dienstanbieter ist das amerikanische Unternehmen Netlify Inc., 2325 3rd
@@ -970,10 +895,7 @@ const privacy = () => {
         werden. Diese Klauseln basieren auf einem Durchführungsbeschluss der
         EU-Kommission. Sie finden den Beschluss und die entsprechenden
         Standardvertragsklauseln u.a. hier:{" "}
-        <a
-          class="adsimple-312328346"
-          href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de"
-        >
+        <a href="https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de">
           https://eur-lex.europa.eu/eli/dec_impl/2021/914/oj?locale=de
         </a>
       </p>
@@ -983,7 +905,6 @@ const privacy = () => {
         Kundenbeziehung zu Netlify fungiert. Dieser verweist inhaltlich auf die
         EU-Standardvertragsklauseln. Sie finden ihn hier:{" "}
         <a
-          class="adsimple-312328346"
           href="https://www.netlify.com/pdf/netlify-dpa.pdf"
           target="_blank"
           rel="follow noopener"
@@ -994,17 +915,12 @@ const privacy = () => {
       <p>
         Mehr über die Daten, die durch die Verwendung von Netlify verarbeitet
         werden, erfahren Sie in der Privacy Policy auf{" "}
-        <a
-          class="adsimple-312328346"
-          href="https://www.netlify.com/privacy/?tid=312328346"
-        >
+        <a href="https://www.netlify.com/privacy/?tid=312328346">
           https://www.netlify.com/privacy/
         </a>
         .
       </p>
-      <h2 id="schlusswort" class="adsimple-312328346">
-        Schlusswort
-      </h2>
+      <h2 id="schlusswort">Schlusswort</h2>
       <p>
         Herzlichen Glückwunsch! Wenn Sie diese Zeilen lesen, haben Sie sich
         wirklich durch unsere gesamte Datenschutzerklärung „gekämpft“ oder
