@@ -487,21 +487,6 @@ const privacy = () => {
         gespeichert.
       </p>
       <p>
-        Die folgende Grafik zeigt eine mögliche Interaktion zwischen einem
-        Webbrowser wie z. B. Chrome und dem Webserver. Dabei fordert der
-        Webbrowser eine Website an und erhält vom Server ein Cookie zurück,
-        welches der Browser erneut verwendet, sobald eine andere Seite
-        angefordert wird.
-      </p>
-      <p>
-        <Image
-          role="img"
-          src="https://www.adsimple.at/wp-content/uploads/2018/03/http-cookie-interaction.svg"
-          alt="HTTP Cookie Interaktion zwischen Browser und Webserver"
-          width="100%"
-        />
-      </p>
-      <p>
         Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies.
         Erstanbieter-Cookies werden direkt von unserer Seite erstellt,
         Drittanbieter-Cookies werden von Partner-Websites (z.B. Google
@@ -758,19 +743,6 @@ const privacy = () => {
         kommen. Einerseits speichert Ihr Computer Daten, andererseits muss auch
         der Webserver Daten eine Zeit lang speichern, um einen ordentlichen
         Betrieb zu gewährleisten.
-      </p>
-      <p>
-        Ein Bild sagt mehr als tausend Worte, daher zeigt folgende Grafik zur
-        Veranschaulichung das Zusammenspiel zwischen Browser, dem Internet und
-        dem Hosting-Provider.
-      </p>
-      <p>
-        <image
-          role="img"
-          src="https://www.adsimple.at/wp-content/uploads/2018/03/browser-und-webserver.svg"
-          alt="Browser und Webserver"
-          width="100%"
-        />
       </p>
       <h3>Warum verarbeiten wir personenbezogene Daten?</h3>
       <p>Die Zwecke der Datenverarbeitung sind:</p>
