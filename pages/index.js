@@ -69,10 +69,10 @@ export default function Home() {
           </form>
         </div>
         <div className="relative flex justify-between items-center max-w-[500px] w-full m-auto pt-4 text-white z-10">
-          <Link href="/Datenschutz">
+          <Link href="/privacy">
             <p className="p-2 underline cursor-pointer">Datenschutz</p>
           </Link>
-          <Link href="/Impressum">
+          <Link href="/imprint">
             <p className="p-2 underline cursor-pointer">Impressum</p>
           </Link>
         </div>
