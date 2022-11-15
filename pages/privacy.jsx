@@ -11,11 +11,7 @@ const privacy = () => {
       <p className="p-2">
         Wir haben diese Datenschutzerklärung (Fassung 15.11.2022-312328346)
         verfasst, um Ihnen gemäß der Vorgaben der{" "}
-        <a
-          href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=312328346#d1e2269-1-1"
-          target="_blank"
-          rel="noopener"
-        >
+        <a href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=312328346#d1e2269-1-1">
           Datenschutz-Grundverordnung (EU) 2016/679
         </a>{" "}
         und anwendbaren nationalen Gesetzen zu erklären, welche
@@ -308,20 +304,12 @@ const privacy = () => {
         sonst einer Weise verletzt worden sind, können Sie sich bei der
         Aufsichtsbehörde beschweren. Diese ist für Österreich die
         Datenschutzbehörde, deren Website Sie unter{" "}
-        <a
-          href="https://www.dsb.gv.at/?tid=312328346"
-          target="_blank"
-          rel="noopener"
-        >
+        <a href="https://www.dsb.gv.at/?tid=312328346">
           https://www.dsb.gv.at/
         </a>{" "}
         finden. In Deutschland gibt es für jedes Bundesland einen
         Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die{" "}
-        <a
-          href="https://www.bfdi.bund.de/DE/Home/home_node.html"
-          target="_blank"
-          rel="noopener"
-        >
+        <a href="https://www.bfdi.bund.de/DE/Home/home_node.html">
           Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
           (BfDI)
         </a>{" "}
@@ -340,11 +328,7 @@ const privacy = () => {
         <strong>E-Mail-Adresse:</strong> poststelle@datenschutz-bayern.de
         <br />
         <strong>Website: </strong>
-        <a
-          href="https://www.datenschutz-bayern.de/?tid=312328346"
-          target="_blank"
-          rel="noopener"
-        >
+        <a href="https://www.datenschutz-bayern.de/?tid=312328346">
           https://www.datenschutz-bayern.de/
         </a>
       </p>
@@ -648,29 +632,17 @@ const privacy = () => {
         wollen, können Sie dies in Ihren Browser-Einstellungen finden:
       </p>
       <p>
-        <a
-          href="https://support.google.com/chrome/answer/95647?tid=312328346"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://support.google.com/chrome/answer/95647?tid=312328346">
           Chrome: Cookies in Chrome löschen, aktivieren und verwalten
         </a>
       </p>
       <p>
-        <a
-          href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=312328346"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=312328346">
           Safari: Verwalten von Cookies und Websitedaten mit Safari
         </a>
       </p>
       <p>
-        <a
-          href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=312328346"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=312328346">
           Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf
           Ihrem Computer abgelegt haben
         </a>
@@ -823,11 +795,7 @@ const privacy = () => {
         <li>das verwendete Betriebssystem (z. B. Windows 10)</li>
         <li>
           die Adresse (URL) der zuvor besuchten Seite (Referrer URL) (z. B.{" "}
-          <a
-            href="https://www.beispielquellsite.de/vondabinichgekommen/"
-            target="_blank"
-            rel="follow noopener"
-          >
+          <a href="https://www.beispielquellsite.de/vondabinichgekommen/">
             https://www.beispielquellsite.de/vondabinichgekommen/
           </a>
           )
@@ -904,11 +872,7 @@ const privacy = () => {
         DSGVO bereit, der als datenschutzrechtliche Grundlage für unsere
         Kundenbeziehung zu Netlify fungiert. Dieser verweist inhaltlich auf die
         EU-Standardvertragsklauseln. Sie finden ihn hier:{" "}
-        <a
-          href="https://www.netlify.com/pdf/netlify-dpa.pdf"
-          target="_blank"
-          rel="follow noopener"
-        >
+        <a href="https://www.netlify.com/pdf/netlify-dpa.pdf">
           https://www.netlify.com/pdf/netlify-dpa.pdf
         </a>
       </p>
