@@ -42,7 +42,7 @@ export default function Home() {
 
         {/* Background Image */}
 
-        <Image src="/wetter-bg.jpg" layout="fill" className="object-cover" />
+        <Image src="/test.jpeg" layout="fill" className="object-cover" />
 
         {/* Search */}
 
