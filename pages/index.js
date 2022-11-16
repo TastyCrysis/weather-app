@@ -42,11 +42,7 @@ export default function Home() {
 
         {/* Background Image */}
 
-        <Image
-          src="https://images.unsplash.com/photo-1601134467661-3d775b999c8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1975&q=80"
-          layout="fill"
-          className="object-cover"
-        />
+        <Image src="/Wetter-Bg.jpeg" layout="fill" className="object-cover" />
 
         {/* Search */}
 
@@ -75,6 +71,14 @@ export default function Home() {
           <Link href="/imprint">
             <p className="p-2 underline cursor-pointer">Impressum</p>
           </Link>
+          <div
+            className="p-2 underline cursor-pointer"
+            onClick={() => {
+              window.klaro.show(window.klaroConfig);
+            }}
+          >
+            <p>Cookie Konfiguration</p>
+          </div>
         </div>
 
         {/* Weather */}
