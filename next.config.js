@@ -2,12 +2,14 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-}
+};
 
 module.exports = {
   images: {
     domains: [
-      'images.unsplash.com', 'openweathermap.org'
-    ]
-  }
-}
+      "images.unsplash.com",
+      "openweathermap.org",
+      "https://pgweather.netlify.app/",
+    ],
+  },
+};
